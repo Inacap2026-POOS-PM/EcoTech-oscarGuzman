@@ -1,0 +1,61 @@
+2026-11-19 20:23:15,536 | INFO | ecotech | prueba
+2026-11-20 01:02:39,402 | ERROR | ecotech | Error de base de datos (OperationalError): no such table: proyecto
+2026-11-20 01:22:56,424 | WARNING | ecotech | Violación de integridad: UNIQUE constraint failed: persona.rut
+2026-11-20 01:26:43,803 | WARNING | ecotech | Violación de integridad: UNIQUE constraint failed: persona.rut
+2026-11-20 01:26:43,805 | WARNING | ecotech | Violación de integridad: UNIQUE constraint failed: persona.rut
+2026-11-20 01:28:39,928 | WARNING | ecotech | Violación de integridad: UNIQUE constraint failed: proyecto.id
+2026-11-20 01:30:51,801 | WARNING | ecotech | Violación de integridad: UNIQUE constraint failed: persona.rut
+2026-11-20 01:31:23,754 | WARNING | ecotech | Violación de integridad: UNIQUE constraint failed: proyecto.id
+2026-11-20 01:36:33,216 | WARNING | ecotech | Intento de ingreso con usuario inexistente
+2026-11-20 01:36:33,493 | WARNING | ecotech | Clave incorrecta (usuario_prueba), intento 1
+2026-11-20 01:36:33,768 | WARNING | ecotech | Clave incorrecta (usuario_prueba), intento 2
+2026-11-20 01:36:34,068 | INFO | ecotech | Ingreso correcto (usuario_prueba)
+2026-11-20 01:36:34,360 | WARNING | ecotech | Clave incorrecta (usuario_prueba), intento 1
+2026-11-20 01:36:34,626 | WARNING | ecotech | Clave incorrecta (usuario_prueba), intento 2
+2026-11-20 01:36:34,901 | WARNING | ecotech | Clave incorrecta (usuario_prueba), intento 3
+2026-11-20 01:36:34,904 | WARNING | ecotech | Ingreso rechazado: cuenta bloqueada (usuario_prueba)
+2026-11-20 01:39:03,544 | INFO | ecotech | Ingreso correcto (panky)
+2026-11-20 01:57:06,260 | WARNING | ecotech | clima: respuesta HTTP 401
+2026-11-20 01:57:07,017 | WARNING | ecotech | clima: respuesta HTTP 401
+2026-11-20 02:04:38,871 | WARNING | ecotech | clima: respuesta HTTP 401
+2026-11-20 02:04:39,740 | WARNING | ecotech | clima: respuesta HTTP 401
+2026-11-20 02:14:03,771 | INFO | ecotech | Ingreso correcto (panky)
+2026-11-20 02:18:33,940 | WARNING | ecotech | Violación de integridad: UNIQUE constraint failed: proyecto.id
+2026-11-20 02:28:20,133 | WARNING | ecotech | clima: respuesta HTTP 404
+2026-11-20 11:36:03,217 | WARNING | ecotech | Violación de integridad: UNIQUE constraint failed: persona.rut
+2026-11-20 11:36:03,219 | WARNING | ecotech | Violación de integridad: UNIQUE constraint failed: persona.rut
+2026-11-20 11:36:24,682 | WARNING | ecotech | monedas: error de conexión
+2026-11-20 11:36:25,066 | WARNING | ecotech | monedas: error de conexión
+2026-11-20 11:36:27,024 | WARNING | ecotech | clima: respuesta HTTP 404
+2026-11-20 11:38:50,860 | INFO | ecotech | Ingreso correcto (panky)
+2026-11-20 11:39:28,639 | WARNING | ecotech | monedas: error de conexión
+2026-11-20 11:39:39,337 | WARNING | ecotech | monedas: tiempo de espera agotado
+2026-11-20 11:39:40,030 | WARNING | ecotech | clima: respuesta HTTP 401
+2026-11-20 11:39:40,723 | WARNING | ecotech | clima: respuesta HTTP 401
+2026-11-20 11:40:05,876 | WARNING | ecotech | monedas: tiempo de espera agotado
+2026-11-20 11:40:06,240 | WARNING | ecotech | monedas: error de conexión
+2026-11-20 11:40:06,901 | WARNING | ecotech | clima: respuesta HTTP 401
+2026-11-20 11:40:07,600 | WARNING | ecotech | clima: respuesta HTTP 401
+2026-11-20 11:40:25,077 | WARNING | ecotech | monedas: error de conexión
+2026-11-20 11:40:25,078 | WARNING | ecotech | monedas: error de conexión
+2026-11-20 11:40:25,079 | WARNING | ecotech | clima: error de conexión
+2026-11-20 11:40:25,080 | WARNING | ecotech | clima: error de conexión
+2026-11-20 11:41:32,779 | WARNING | ecotech | Intento de ingreso con usuario inexistente
+2026-11-20 11:41:33,012 | WARNING | ecotech | Clave incorrecta (usuario_prueba), intento 1
+2026-11-20 11:41:33,234 | WARNING | ecotech | Clave incorrecta (usuario_prueba), intento 2
+2026-11-20 11:41:33,461 | INFO | ecotech | Ingreso correcto (usuario_prueba)
+2026-11-20 11:41:33,696 | WARNING | ecotech | Clave incorrecta (usuario_prueba), intento 1
+2026-11-20 11:41:33,931 | WARNING | ecotech | Clave incorrecta (usuario_prueba), intento 2
+2026-11-20 11:41:34,159 | WARNING | ecotech | Clave incorrecta (usuario_prueba), intento 3
+2026-11-20 11:41:34,161 | WARNING | ecotech | Ingreso rechazado: cuenta bloqueada (usuario_prueba)
+2026-11-20 11:48:37,174 | WARNING | ecotech | monedas: error de conexión (ConnectionError)
+2026-11-20 11:48:50,685 | WARNING | ecotech | monedas: error de conexión (SSLError)
+2026-11-20 11:48:51,351 | WARNING | ecotech | clima: respuesta HTTP 401
+2026-11-20 11:48:51,497 | WARNING | ecotech | clima: respuesta HTTP 401
+2026-11-20 11:49:35,132 | WARNING | ecotech | monedas: error de conexión (SSLError)
+2026-11-20 11:49:38,347 | WARNING | ecotech | monedas: error de conexión (SSLError)
+2026-11-20 11:49:39,027 | WARNING | ecotech | clima: respuesta HTTP 401
+2026-11-20 11:49:39,171 | WARNING | ecotech | clima: respuesta HTTP 401
+2026-11-20 11:52:07,056 | WARNING | ecotech | monedas: error de conexión (SSLError)
+2026-11-20 11:52:20,483 | WARNING | ecotech | monedas: error de conexión (ConnectionError)
+2026-11-20 11:52:21,398 | WARNING | ecotech | clima: respuesta HTTP 404
