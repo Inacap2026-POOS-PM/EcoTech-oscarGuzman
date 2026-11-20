@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .env
 ecotech.db
+ecotech.log
+.vscode/
